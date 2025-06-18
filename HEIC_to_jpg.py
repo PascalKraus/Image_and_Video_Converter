@@ -34,3 +34,4 @@ for filename in os.listdir(input_folder):
             print(f"Konvertiert: {filename} -> {new_filename}")
         except Exception as e:
             print(f"Fehler beim Konvertieren von {filename}: {e}")
+fghfghfgh
